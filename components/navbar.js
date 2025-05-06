@@ -1,0 +1,1 @@
+//Navbar artık yok.
